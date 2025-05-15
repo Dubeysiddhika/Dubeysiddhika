@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Model Training
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... siddhikabubey2005@gmail.com
+- 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ...
 
 <!---
